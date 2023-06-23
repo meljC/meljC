@@ -1,5 +1,7 @@
-### 👋 Hi I'm Daniel! 👋
-
+### Hi I'm Daniel! 👋
+- Interested in Web Dev, Machine Learning, Data Science amd Data Engineering
+- Using Python, Go
+- And looking forward to learning other technologies
 <!--
 **meljC/meljC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
