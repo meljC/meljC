@@ -1,5 +1,5 @@
 ### Hi I'm Daniel! 👋
-- Interested in Web Dev, Machine Learning, Data Science amd Data Engineering
+- Interested in Web Dev, Machine Learning, Data Science and Data Engineering
 - Using Python, Go
 - And looking forward to learning other technologies
 <!--
